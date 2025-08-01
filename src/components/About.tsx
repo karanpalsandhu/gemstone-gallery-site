@@ -5,26 +5,26 @@ const About = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div>
             <h2 className="font-serif text-4xl md:text-5xl font-bold mb-8">
-              Crafted with 
-              <span className="text-primary block">Passion</span>
+              Made with 
+              <span className="text-primary block">Care</span>
             </h2>
             
             <div className="space-y-6 text-lg leading-relaxed">
               <p>
-                For over three decades, LUXE has been synonymous with exceptional jewelry craftsmanship. 
-                Our master artisans combine traditional techniques with contemporary design to create 
-                pieces that transcend time and trends.
+                ThinkTrink has been making beautiful imitation jewelry accessible to everyone. 
+                We believe that great style shouldn't break the bank, which is why we offer 
+                stunning pieces that look amazing without the premium price tag.
               </p>
               
               <p>
-                Each piece in our collection is meticulously handcrafted using only the finest materials—
-                ethically sourced diamonds, precious metals, and rare gemstones. We believe that true 
-                luxury lies not just in the materials, but in the story and craftsmanship behind each piece.
+                Each piece in our collection is carefully designed to give you the look and feel 
+                of expensive jewelry at a fraction of the cost. From everyday wear to special occasions, 
+                our jewelry lets you express your style with confidence.
               </p>
               
               <p>
-                From engagement rings that symbolize eternal love to statement pieces that define personal 
-                style, our jewelry is designed to be treasured for generations.
+                Whether you're looking for earrings, necklaces, or complete sets, our affordable 
+                range of ₹300-₹1000 makes it easy to build a collection you'll love.
               </p>
             </div>
           </div>
@@ -32,24 +32,24 @@ const About = () => {
           <div className="relative">
             <div className="bg-gradient-luxury rounded-lg p-8 shadow-glow">
               <div className="text-center space-y-8">
-                <div className="grid grid-cols-2 gap-8">
-                  <div>
-                    <div className="text-4xl font-bold text-secondary-foreground">30+</div>
-                    <div className="text-secondary-foreground/80">Years of Excellence</div>
+                  <div className="grid grid-cols-2 gap-8">
+                    <div>
+                      <div className="text-4xl font-bold text-secondary-foreground">5+</div>
+                      <div className="text-secondary-foreground/80">Years Serving</div>
+                    </div>
+                    <div>
+                      <div className="text-4xl font-bold text-secondary-foreground">5k+</div>
+                      <div className="text-secondary-foreground/80">Happy Customers</div>
+                    </div>
+                    <div>
+                      <div className="text-4xl font-bold text-secondary-foreground">200+</div>
+                      <div className="text-secondary-foreground/80">Beautiful Designs</div>
+                    </div>
+                    <div>
+                      <div className="text-4xl font-bold text-secondary-foreground">₹300</div>
+                      <div className="text-secondary-foreground/80">Starting Price</div>
+                    </div>
                   </div>
-                  <div>
-                    <div className="text-4xl font-bold text-secondary-foreground">10k+</div>
-                    <div className="text-secondary-foreground/80">Happy Clients</div>
-                  </div>
-                  <div>
-                    <div className="text-4xl font-bold text-secondary-foreground">500+</div>
-                    <div className="text-secondary-foreground/80">Unique Designs</div>
-                  </div>
-                  <div>
-                    <div className="text-4xl font-bold text-secondary-foreground">100%</div>
-                    <div className="text-secondary-foreground/80">Satisfaction</div>
-                  </div>
-                </div>
               </div>
             </div>
           </div>

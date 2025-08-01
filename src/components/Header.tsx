@@ -7,7 +7,7 @@ const Header = () => {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <div className="font-serif text-2xl font-bold text-primary">
-            LUXE
+            ThinkTrink
           </div>
           
           {/* Navigation */}

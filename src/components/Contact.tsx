@@ -7,11 +7,11 @@ const Contact = () => {
       <div className="container mx-auto px-6">
         <div className="text-center mb-16">
           <h2 className="font-serif text-4xl md:text-5xl font-bold text-foreground mb-6">
-            Visit Our Atelier
+            Visit Our Store
           </h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-            Experience our collections in person and discover the perfect piece 
-            for your most precious moments.
+            Browse our beautiful collections in person and find the perfect piece 
+            that matches your style and budget.
           </p>
         </div>
         
@@ -20,9 +20,9 @@ const Contact = () => {
             <div className="text-4xl mb-4">📍</div>
             <h3 className="font-serif text-xl font-semibold mb-4">Location</h3>
             <p className="text-muted-foreground">
-              123 Fifth Avenue<br />
-              New York, NY 10001<br />
-              United States
+              Shop No. 123<br />
+              Commercial Street<br />
+              Mumbai, India
             </p>
           </Card>
           
@@ -40,16 +40,16 @@ const Contact = () => {
             <div className="text-4xl mb-4">📞</div>
             <h3 className="font-serif text-xl font-semibold mb-4">Contact</h3>
             <p className="text-muted-foreground">
-              +1 (555) 123-4567<br />
-              hello@luxejewelry.com<br />
-              Book a private viewing
+              +91 98765 43210<br />
+              hello@thinktrink.com<br />
+              Visit us anytime
             </p>
           </Card>
         </div>
         
         <div className="text-center mt-16">
           <Button variant="luxury" size="lg" className="text-lg px-12 py-4">
-            Schedule Consultation
+            Visit Our Store
           </Button>
         </div>
       </div>

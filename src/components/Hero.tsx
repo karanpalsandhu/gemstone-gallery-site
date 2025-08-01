@@ -17,13 +17,13 @@ const Hero = () => {
       {/* Content */}
       <div className="relative z-10 text-center text-white px-6 max-w-4xl">
         <h1 className="font-serif text-5xl md:text-7xl font-bold mb-6 animate-fade-in">
-          Timeless
-          <span className="block text-primary">Elegance</span>
+          Affordable
+          <span className="block text-primary">Style</span>
         </h1>
         
         <p className="text-xl md:text-2xl mb-8 text-white/90 max-w-2xl mx-auto animate-fade-in">
-          Discover our exquisite collection of handcrafted jewelry, 
-          where every piece tells a story of luxury and sophistication.
+          Discover our beautiful collection of imitation jewelry, 
+          where style meets affordability. Starting from just ₹300.
         </p>
         
         <div className="flex flex-col sm:flex-row gap-4 justify-center animate-scale-in">

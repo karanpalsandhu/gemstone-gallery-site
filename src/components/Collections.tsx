@@ -4,27 +4,27 @@ import { Button } from "@/components/ui/button";
 const Collections = () => {
   const collections = [
     {
-      title: "Diamond Classics",
-      description: "Timeless diamond pieces that capture eternal beauty and elegance.",
-      price: "From $2,500",
+      title: "Diamond Look",
+      description: "Stunning diamond-style pieces that give you the sparkle you love.",
+      price: "From ₹499",
       image: "💎"
     },
     {
-      title: "Gold Heritage",
-      description: "Handcrafted gold jewelry inspired by ancient artisan techniques.",
-      price: "From $1,200",
+      title: "Gold Plated",
+      description: "Beautiful gold-plated jewelry that looks premium and feels special.",
+      price: "From ₹399",
       image: "👑"
     },
     {
-      title: "Pearl Sophistication",
-      description: "Lustrous pearls set in contemporary designs for modern elegance.",
-      price: "From $800",
+      title: "Pearl Style",
+      description: "Elegant pearl-inspired designs perfect for any occasion.",
+      price: "From ₹349",
       image: "🤍"
     },
     {
-      title: "Custom Creations",
-      description: "Bespoke jewelry designed exclusively for your unique vision.",
-      price: "From $3,000",
+      title: "Trendy Sets",
+      description: "Fashion-forward jewelry sets that complete your look.",
+      price: "From ₹599",
       image: "✨"
     }
   ];
@@ -37,8 +37,8 @@ const Collections = () => {
             Featured Collections
           </h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-            Each collection represents our commitment to exceptional craftsmanship 
-            and timeless design, created for those who appreciate the finest things in life.
+            Each collection offers beautiful designs at affordable prices, 
+            making style accessible for everyone who loves great jewelry.
           </p>
         </div>
         
